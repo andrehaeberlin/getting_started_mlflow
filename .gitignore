@@ -1,0 +1,4 @@
+.env
+basic_auth.db
+basic_auth.db-*
+.ipynb_checkpoints/
